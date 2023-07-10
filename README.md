@@ -6,10 +6,20 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+10.07.2023 -> CPUFirmwareVer = { "2.308" } HMIFirmwareVer = { "1.025" }
+	<br>
+	Add energy saver function. (USER level)(180sn)
+	<br>
+	Add load default parameters function. (ADMIN)
+	<br>
+	Add sendtoUART test function.(USER level)
+	<br>
+
 23.06.2023 -> CPUFirmwareVer = { "2.307" }
 	<br>
 	add extra time for add_new_test functions
 	<br>
+
 22.06.2023 -> CPUFirmwareVer = { "2.306" }
 	<br>
 	add new worklist functions.
