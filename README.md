@@ -6,6 +6,13 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+12.08.2023 -> CPUFirmwareVer = { "2.309" } HMIFirmwareVer = { "1.027" }
+<br>
+	Added database functions
+<br>
+	Added a lot of functions.
+<br>	
+
 10.07.2023 -> CPUFirmwareVer = { "2.308" } HMIFirmwareVer = { "1.025" }
 	<br>
 	Add energy saver function. (USER level)(180sn)
