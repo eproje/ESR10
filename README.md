@@ -6,6 +6,18 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+19.08.2023 -> CPUFirmwareVer = { "2.310" } HMIFirmwareVer = { "1.028" }
+<br>
+	Added toHOST functions. (UART mode only)
+<br>
+	Added toPrinter functions.
+<br>
+	Added MSGBOX functions.
+<br>
+	Added INPUTBOX functions.
+<br>
+
+
 12.08.2023 -> CPUFirmwareVer = { "2.309" } HMIFirmwareVer = { "1.027" }
 <br>
 	Added database functions
