@@ -1,11 +1,21 @@
 # ESR10
- Erythrocyte Sedimentation Rate (ESR) Controller
+ Erythrocyte Sedimentation Rate (ESR) Controller.
+ <br>
+ It was designed by "Huseyin Serimer" for (BIOZEK and SISTAT).
 
 
 # Product page
 https://www.biozek.com/biosed/
 
 # REVISIONS
+21.08.2023 -> CPUFirmwareVer = { "2.311" } HMIFirmwareVer = { "1.029" }
+<br>
+	Added: Credit ADD screen and screen functions.
+<br>
+	Modified: USER Settings page 3
+<br>
+
+
 19.08.2023 -> CPUFirmwareVer = { "2.310" } HMIFirmwareVer = { "1.028" }
 <br>
 	Added toHOST functions. (UART mode only)
