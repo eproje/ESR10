@@ -8,6 +8,12 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+03.09.2023 -> CPUFirmwareVer = { "2.312" } HMIFirmwareVer = { "1.029" }
+<br>
+	Bug fix: HMI keyboard buffer auto clear function added.
+
+
+
 21.08.2023 -> CPUFirmwareVer = { "2.311" } HMIFirmwareVer = { "1.029" }
 <br>
 	Added: Credit ADD screen and screen functions.
