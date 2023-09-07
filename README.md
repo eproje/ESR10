@@ -10,7 +10,7 @@ https://www.biozek.com/biosed/
 # REVISIONS
 07.09.2023 -> CPUFirmwareVer = { "2.313" } HMIFirmwareVer = { "1.030" }
 <br>
-	*** The CPU must be updated first, then the HMI. <br>
+	*** The CPU must be updated first, then the HMI. ***
 	
 	Bug fix: in parameter save function. <br>
 	Bug fix: (result60 < resul30) calculation error. <br>
