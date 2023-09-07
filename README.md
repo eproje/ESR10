@@ -8,6 +8,19 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+07.09.2023 -> CPUFirmwareVer = { "2.313" } HMIFirmwareVer = { "1.030" }
+<br>
+	*** The CPU must be updated first, then the HMI. <br>
+	
+	Bug fix: in parameter save function. <br>
+	Bug fix: (result60 < resul30) calculation error. <br>
+	Bug fix: in ADD screen (barcode size missing error). <br>
+	ADD: Control TUBES edit screen. (service tools)<br>
+	CHANGE: Some HMI screens.<br>
+	CHANGE: Login methods.<br>
+	
+
+
 03.09.2023 -> CPUFirmwareVer = { "2.312" } HMIFirmwareVer = { "1.029" }
 <br>
 	Bug fix: HMI keyboard buffer auto clear function added.
