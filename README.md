@@ -12,12 +12,12 @@ https://www.biozek.com/biosed/
 <br>
 	*** The CPU must be updated first, then the HMI. ***
 	
-	Bug fix: in parameter save function. <br>
-	Bug fix: (result60 < resul30) calculation error. <br>
-	Bug fix: in ADD screen (barcode size missing error). <br>
-	ADD: Control TUBES edit screen. (service tools)<br>
-	CHANGE: Some HMI screens.<br>
-	CHANGE: Login methods.<br>
+	Bug fix: in parameter save function.
+	Bug fix: (result60 < resul30) calculation error.
+	Bug fix: in ADD screen (barcode size missing error). 
+	ADD: Control TUBES edit screen. (service tools)
+	CHANGE: Some HMI screens.
+	CHANGE: Login methods.
 	
 
 
