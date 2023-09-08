@@ -8,6 +8,11 @@
 https://www.biozek.com/biosed/
 
 # REVISIONS
+08.09.2023 -> CPUFirmwareVer = { "2.314" } HMIFirmwareVer = { "1.030" }
+<br>
+	Bug fix: Calculation functions.
+
+
 07.09.2023 -> CPUFirmwareVer = { "2.313" } HMIFirmwareVer = { "1.030" }
 <br>
 	*** The CPU must be updated first, then the HMI. ***
